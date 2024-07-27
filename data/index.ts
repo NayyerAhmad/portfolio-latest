@@ -70,11 +70,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "Finance Learn - Financial Planning App",
+    des: "Fully Responsive UI/UX Website",
+    img: "/p1.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "/financelearnapp-nayyerahmads-projects.vercel.app/",
   },
   {
     id: 2,
