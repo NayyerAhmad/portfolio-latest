@@ -74,7 +74,7 @@ export const projects = [
     des: "Fully Responsive UI/UX Website",
     img: "/p1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "/financelearnapp-nayyerahmads-projects.vercel.app/",
+    link: "https://financelearnapp-nayyerahmads-projects.vercel.app"
   },
   {
     id: 2,
