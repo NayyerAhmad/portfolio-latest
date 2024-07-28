@@ -73,17 +73,17 @@ export const projects = [
     title: "Finance Learn - Financial Planning App",
     des: "Fully Responsive UI/UX Website",
     img: "/p1.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "re.svg"],
     link: "https://financelearnapp-nayyerahmads-projects.vercel.app"
   },
-  // {
-  //   id: 2,
-  //   title: "Yoom - Video Conferencing App",
-  //   des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-  //   img: "/p2.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-  //   link: "/ui.yoom.com",
-  // },
+  {
+    id: 2,
+    title: "Interactive Voting App",
+    des: "Engage your audience with our interactive voting app. Easily create, manage, and vote on options in real-time.",
+    img: "/p2.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "re.svg"],
+    link: "https://voting-app-fawn.vercel.app/",
+  },
   // {
   //   id: 3,
   //   title: "AI Image SaaS - Canva Application",
